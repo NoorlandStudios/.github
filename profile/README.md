@@ -25,15 +25,15 @@ Want to see it in action instead? Hop on at **[play.noorlandmc.com](https://play
 Everything routes through **NoorCore**. Satellite plugins never reach into each other's internals — they talk through service bridges registered in NoorCore's registry, so any plugin can be missing without breaking the ones that depend on it.
 
 ```
-                          ┌─────────────────────────┐
-                          │        NoorCore         │
-                          │  Service registry & API │
-                          │  Event bus              │
-                          │  Feature flags          │
-                          │  Shared menu framework   │
-                          │  Folia-aware scheduling  │
-                          └────────────┬─────────────┘
-                                       │ service bridges
+                         ┌─────────────────────────┐
+                         │        NoorCore         │
+                         │  Service registry & API │
+                         │  Event bus              │
+                         │  Feature flags          │
+                         │  Shared menu framework  │
+                         │  Folia-aware scheduling │
+                         └────────────┬────────────┘
+                                      │ service bridges
         ┌───────────────┬─────────────┼─────────────┬───────────────┐
         │               │             │             │               │
     NoorItems       NoorTowns     NoorEconomy    NoorJobs        NoorPack
