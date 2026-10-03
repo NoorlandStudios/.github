@@ -5,6 +5,7 @@
 **The team building NoorlandMC** — a custom Minecraft server with its own economy, jobs, quests, towns, mobs, and world, built as one connected plugin suite.
 
 [![Play](https://img.shields.io/badge/Play-play.noorlandmc.com-4c9a2a?style=for-the-badge)](https://play.noorlandmc.com)
+[![Add our server to bedrock](https://img.shields.io/badge/Play-play.noorlandmc.com-4c9a2a?style=for-the-badge)](minecraft://?addExternalServer=NoorlandMC|play.noorlandmc.com:19132)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/noorlandmc)
 [![Website](https://img.shields.io/badge/Website-noorlandmc.com-2b6cb0?style=for-the-badge)](https://noorlandmc.com)
 
@@ -100,6 +101,6 @@ Java 21 · Paper 1.21.11 · Folia · Vault · Maven
 
 <div align="center">
 
-**[play.noorlandmc.com](https://play.noorlandmc.com)** &nbsp;·&nbsp; **[Discord](https://discord.gg/noorlandmc)** &nbsp;·&nbsp; **[noorlandmc.com](https://noorlandmc.com)**
+**[play.noorlandmc.com (Java IP)](https://play.noorlandmc.com)** &nbsp;·&nbsp; **[Discord](https://discord.gg/noorlandmc)** &nbsp;·&nbsp; **[noorlandmc.com](https://noorlandmc.com)**
 
 </div>
